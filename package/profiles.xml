@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profiles version="2.2">
+	<profile name="test">
+		<profileitem ca="/home/nitish/tizen-sdk/tools/certificate-generator/certificates/developer/tizen-developer-ca.cer" distributor="0" key="/home/nitish/tizen-sdk-data/keystore/author/tizen567.p12" password="tizen567" rootca=""/>
+		<profileitem ca="/home/nitish/tizen-sdk/tools/certificate-generator/certificates/developer/tizen-developer-ca.cer" distributor="1" key="/home/nitish/tizen-sdk-data/keystore/author/tizen567.p12" password="tizen567" rootca=""/>
+	</profile>
+</profiles>
